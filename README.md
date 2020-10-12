@@ -2,8 +2,6 @@
 
 This is the first file in this rero.
 
-## Ipsum Below
+## Website Contents
 
-some text that needs to be large data set.
-
-some more text.
+1. index.html
